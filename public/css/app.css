@@ -1,19 +1,27 @@
 /* app.css */
 
-/* Changing font-size, font-family, and color */
+
 body {
-    font-family: Arial, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
-    color: #333; /* Dark gray color */
+    color: #333; 
 }
 
-/* Example of additional styles */
-h1 {
+
+
+h2 {
     font-size: 24px;
-    color: #007bff; /* Blue color */
+    color: #e1377e; 
     margin-bottom: 20px;
 }
 
 p {
     line-height: 1.5;
+}
+
+img {
+
+    height: 500px;
+    width: 400px;
+    border-radius: 50%;
 }
