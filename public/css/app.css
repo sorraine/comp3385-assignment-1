@@ -1,0 +1,19 @@
+/* app.css */
+
+/* Changing font-size, font-family, and color */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333; /* Dark gray color */
+}
+
+/* Example of additional styles */
+h1 {
+    font-size: 24px;
+    color: #007bff; /* Blue color */
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 1.5;
+}
